@@ -1,10 +1,11 @@
 package main
 
 import (
-	"go/microservices/handlers"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/jeevi/go-microservices/handlers"
 )
 
 func main() {
